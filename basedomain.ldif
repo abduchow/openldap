@@ -3,7 +3,7 @@ objectClass: top
 objectClass: dcObject
 objectclass: organization
 o: Server World
-dc: LinuxAutomations 
+dc: demoCGI 
 
 dn: cn=Manager,dc=demoCGI,dc=com
 objectClass: organizationalRole
